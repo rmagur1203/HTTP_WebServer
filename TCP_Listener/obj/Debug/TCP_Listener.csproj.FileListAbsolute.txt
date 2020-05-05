@@ -8,3 +8,13 @@ C:\Users\samsung\source\repos\TCP_Listener\bin\Debug\HTTP_WebServer.pdb
 C:\Users\samsung\source\repos\TCP_Listener\obj\Debug\HTTP_WebServer.exe
 C:\Users\samsung\source\repos\TCP_Listener\obj\Debug\HTTP_WebServer.pdb
 C:\Users\samsung\source\repos\TCP_Listener\obj\Debug\TCP_Listener.csprojAssemblyReference.cache
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\bin\Debug\HTTP_WebServer.exe.config
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\bin\Debug\HTTP_WebServer.exe
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\bin\Debug\HTTP_WebServer.pdb
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\TCP_Listener.csprojAssemblyReference.cache
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\TCP_Listener.Form1.resources
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\TCP_Listener.Properties.Resources.resources
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\TCP_Listener.csproj.GenerateResource.cache
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\TCP_Listener.csproj.CoreCompileInputs.cache
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\HTTP_WebServer.exe
+C:\Users\rmagu\Documents\GitHub\HTTP_WebServer\TCP_Listener\obj\Debug\HTTP_WebServer.pdb
