@@ -88,7 +88,7 @@ namespace TCP_Listener
                     StreamReader cr = new StreamReader(cs);
                     StreamWriter cw = new StreamWriter(cs);
 
-                    //MessageBox.Show(cr.ReadLine());
+                    MessageBox.Show(cr.ReadLine());
 
                     string cpath = cr.ReadLine().Split(new[] { "GET " }, StringSplitOptions.None)[1].Split(new[] { " HTTP" }, StringSplitOptions.None)[0];
 
@@ -151,8 +151,7 @@ namespace TCP_Listener
 
             try
             {
-                if (tcp != null)
-                    tcp.Stop();
+                tcp.Stop();
             }
             catch (Exception) { }
 
